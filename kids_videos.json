@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Animal Learning",
+    "category": "Animals",
+    "emoji": "🐯",
+    "duration": "5 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "title": "ABC Learning",
+    "category": "Learning",
+    "emoji": "🔤",
+    "duration": "4 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "title": "Numbers For Kids",
+    "category": "Math",
+    "emoji": "🔢",
+    "duration": "5 min",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  }
+]
